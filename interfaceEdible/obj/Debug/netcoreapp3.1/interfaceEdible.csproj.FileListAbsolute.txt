@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\bin\Debug\netcoreapp3.1\interfaceEdible.exe
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\bin\Debug\netcoreapp3.1\interfaceEdible.deps.json
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\bin\Debug\netcoreapp3.1\interfaceEdible.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\bin\Debug\netcoreapp3.1\interfaceEdible.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\bin\Debug\netcoreapp3.1\interfaceEdible.dll
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\bin\Debug\netcoreapp3.1\interfaceEdible.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\obj\Debug\netcoreapp3.1\interfaceEdible.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\obj\Debug\netcoreapp3.1\interfaceEdible.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\obj\Debug\netcoreapp3.1\interfaceEdible.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\obj\Debug\netcoreapp3.1\interfaceEdible.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\obj\Debug\netcoreapp3.1\interfaceEdible.dll
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\obj\Debug\netcoreapp3.1\interfaceEdible.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\interfaceEdible\obj\Debug\netcoreapp3.1\interfaceEdible.genruntimeconfig.cache
