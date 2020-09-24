@@ -12,7 +12,13 @@ namespace Practical3_2
         public DateTime publishDate {get;set;}
         public string Author {get;set;}
         public string Content {get;set;}
-        public float AverageRate {get;set;}
+        // public float AverageRate {get;}
+
+        private float averagerate;
+        public float AverageRate
+        {
+            get { return averagerate;}
+        }
 
         public void Display()
         {
@@ -24,6 +30,7 @@ namespace Practical3_2
         }
 
         int[] RateList = new int[3];
+
         public int this[int index]
         {
             get{
@@ -36,7 +43,7 @@ namespace Practical3_2
 
         public void Calculate()
         {
-            AverageRate = (float)(RateList[0]+RateList[1]+RateList[2])/3; 
+            averagerate = (float)(RateList[0]+RateList[1]+RateList[2])/3; 
         }
     }
 }

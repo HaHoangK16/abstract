@@ -12,7 +12,7 @@ namespace Practical3_2
         DateTime publishDate {get;set;}
         string Author {get;set;}
         string Content {get;set;}
-        float AverageRate {get;set;}
+        float AverageRate {get;}
 
         void Display();
     }
